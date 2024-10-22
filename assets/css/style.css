@@ -1,6 +1,9 @@
 body {
     margin-top: 20px;
 }
+h6{
+    font-weight: bold;
+}
 .timeline_area {
     position: relative;
     z-index: 1;
